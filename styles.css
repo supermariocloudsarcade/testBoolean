@@ -35,7 +35,9 @@ ul {
  not perfect solution but it work */
 .booleaners {
     position: relative;
-    margin-top: -13px;
+    margin-top: -18px;
+    color:rgb(43, 214, 0);
+
 }
 
 /* negative margin-top for reduce margin with the booleaners title,
@@ -81,7 +83,6 @@ ul {
     height: 85%;
     width: 63%;
     border-radius: 10px;
-    color:rgb(43, 214, 0);
     text-align:center;
 }
 
